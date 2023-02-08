@@ -1,0 +1,80 @@
+
+.header {
+    padding: 80px;
+    text-align: center;
+    background: blueviolet;
+    color: white;
+    height: 196px;
+}
+
+  .header h1 {
+    font-size: 50px;
+  }
+
+.placement {
+    background-color: forestgreen;
+}
+ 
+  .placement a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    
+  }
+  .ptag {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: left;
+    font-size: 18px;
+  }
+  .title {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: left;
+  }
+  .atm {
+    position: relative;
+    left: 836px;
+    bottom: 356px;
+    height: 334px;
+    width: 440px;
+    border: solid forestgreen 5px;
+  }
+  tr {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    overflow: hidden;
+    background-color: #333;
+    position: relative;
+    bottom: 360px;
+    left: px;
+    top: px;
+  }
+  
+  td {
+    float: left;
+  }
+  
+  td a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    width: 286px;
+   
+  }
+  
+  td a:hover {
+    background-color: #111;
+  }
+  .active {
+    background-color: #04AA6D;
+  }
+  .td2 {
+    background-color: green;
+    width: 1277px;
+    height: 1111px;
+    font-size: larger;
+  }
+  
